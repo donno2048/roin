@@ -11,6 +11,7 @@ setup(
     version = '3',
     description = 'This is just a module for easier installation of Rosehip dependencies',
     long_description = open('README.md').read(),
+    long_description_content_type="text/markdown",
     url = 'https://github.com/donno2048/roin',
     license = 'MIT',
     author = 'Elisha Hollander',
