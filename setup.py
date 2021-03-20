@@ -8,7 +8,7 @@ class Install(install):
             if len(line) > 1: call(['pip', 'install', line.replace('\n', '')])
 setup(
     name = 'roin',
-    version = '3',
+    version = '4',
     description = 'This is just a module for easier installation of Rosehip dependencies',
     long_description = open('README.md').read(),
     long_description_content_type="text/markdown",
