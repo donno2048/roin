@@ -4,7 +4,7 @@ html2text==2020.1.16
 js2py==0.70
 keyboard==0.13.5
 markdown2==2.4.0
-opencv-python==4.5.2.52
+opencv-python==4.8.1.78
 pygame==1.9.6
 pygame-gui==0.5.7
 pyttsx3==2.90
